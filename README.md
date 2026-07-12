@@ -7,7 +7,7 @@ This project is a backend REST API developed using Django and Django REST Framew
 
 ### Swagger API Documentation
 
-![Swagger API](screenshots/swagger.png)
+<img src="screenshots/swagger.png" width="800">
 ---
 
 ### ReDoc API Documentation
