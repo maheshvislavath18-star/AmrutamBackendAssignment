@@ -1,8 +1,32 @@
-# Amrutam Backend Assignment
 
 ## Project Overview
 
 This project is a backend REST API developed using Django and Django REST Framework for managing doctors, patients, appointments, consultations, and prescriptions. The application uses JWT authentication, role-based permissions, Swagger API documentation, and search/filtering capabilities.
+
+## 📸 Screenshots
+
+### Swagger API Documentation
+
+![Swagger API](screenshots/swagger-api-backend.png)
+
+---
+
+### ReDoc API Documentation
+
+![ReDoc API](screenshots/redoc-api.png)
+
+---
+
+### JWT Authentication (Login)
+
+![Login API](screenshots/login.png)
+
+---
+
+### Django Admin Panel
+
+![Admin Panel](screenshots/admin.png)
+
 
 ---
 
