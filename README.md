@@ -11,20 +11,17 @@ This project is a backend REST API developed using Django and Django REST Framew
 
 ### ReDoc API Documentation
 
-![ReDoc API](screenshots/redoc-api.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maheshvislavath18-star/AmrutamBackendAssignment/main/screenshots/redoc-api.png" width="800">
+</p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maheshvislavath18-star/AmrutamBackendAssignment/main/screenshots/login.png" width="800">
+</p>
 
-### JWT Authentication (Login)
-
-![Login API](screenshots/login.png)
-
----
-
-### Django Admin Panel
-
-![Admin Panel](screenshots/admin.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maheshvislavath18-star/AmrutamBackendAssignment/main/screenshots/admin.png" width="800">
+</p>
 
 ---
 
